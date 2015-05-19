@@ -11,7 +11,9 @@
 
 
 //Funciones
-void InicializacionComunicacion(void);
+void ClockInit(void);
+void MicroInit(void);
+void ComunicationInit(void);
 
 
 

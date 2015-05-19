@@ -15,8 +15,10 @@
 //Definiciones Trama de datos
 #define FRAME_START 0xAA
 
+//Definiciones de comunicacion
+
 //Definicion variables
-static uint8_t nBytes;
+ static uint8_t nBytes;
 
 
 
